@@ -1,114 +1,144 @@
 {
-    "version": "1.0",
-    "session": {
-      "new": false,
-      "sessionId": "amzn1.echo-api.session.87a3b904-8592-4c2f-b0b0-4c57d2fbc2ce",
-      "application": {
-        "applicationId": "amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d"
-      },
-      "user": {
-        "userId": "amzn1.ask.account.AHZXH2HTPF2FFSJJH2NAO57N3YDEKMF2YKD3HLIZOEAJYC4IJLLSB7IHNMWBQZ5EC2SWUKO2ZK4ZPVIKILVJ6V73OZKSKZAYXAGRXKSFQNITSYLHPJZAOAWUEFJJWY6NOY6MZXU6437Q74A2DMKVD437DPLUABA7KTUDY2YUPZ4EEL7PY4VGO677D6OP5M7ABJ53BPJQEMOZZQA"
-      }
-    },
-    "context": {
-      "System": {
-        "application": {
-          "applicationId": "amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d"
-        },
-        "user": {
-          "userId": "amzn1.ask.account.AHZXH2HTPF2FFSJJH2NAO57N3YDEKMF2YKD3HLIZOEAJYC4IJLLSB7IHNMWBQZ5EC2SWUKO2ZK4ZPVIKILVJ6V73OZKSKZAYXAGRXKSFQNITSYLHPJZAOAWUEFJJWY6NOY6MZXU6437Q74A2DMKVD437DPLUABA7KTUDY2YUPZ4EEL7PY4VGO677D6OP5M7ABJ53BPJQEMOZZQA"
-        },
-        "device": {
-          "deviceId": "amzn1.ask.device.AHS57ZUZFRETPEDFRW3DWFDCXNB6YKJUE2U2PQ5SPNUXMK7T3ZEM2UHVZR2UAYUZUWFDZM3YRLYJJZNTMOBDE5VZTZF2A322SMOQ52HQZLJP5B3SJYAI5LHFFDHTAQRRJ5RLOZYPBLFE77WWMYBYAZ4FXSQDWRZL6M2PNEA45N7JOAAPAADEY",
-          "supportedInterfaces": {}
-        },
-        "apiEndpoint": "https://api.amazonalexa.com",
-        "apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmQ2NGRiOTFmLTEzOGYtNGJkNy04MjJlLTc5ZjZhNGM0NDE0ZCIsImV4cCI6MTU1NDcyOTIzMiwiaWF0IjoxNTU0NzI4OTMyLCJuYmYiOjE1NTQ3Mjg5MzIsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUhTNTdaVVpGUkVUUEVERlJXM0RXRkRDWE5CNllLSlVFMlUyUFE1U1BOVVhNSzdUM1pFTTJVSFZaUjJVQVlVWlVXRkRaTTNZUkxZSkpaTlRNT0JERTVWWlRaRjJBMzIyU01PUTUySFFaTEpQNUIzU0pZQUk1TEhGRkRIVEFRUlJKNVJMT1pZUEJMRkU3N1dXTVlCWUFaNEZYU1FEV1JaTDZNMlBORUE0NU43Sk9BQVBBQURFWSIsInVzZXJJZCI6ImFtem4xLmFzay5hY2NvdW50LkFIWlhIMkhUUEYyRkZTSkpIMk5BTzU3TjNZREVLTUYyWUtEM0hMSVpPRUFKWUM0SUpMTFNCN0lITk1XQlFaNUVDMlNXVUtPMlpLNFpQVklLSUxWSjZWNzNPWktTS1pBWVhBR1JYS1NGUU5JVFNZTEhQSlpBT0FXVUVGSkpXWTZOT1k2TVpYVTY0MzdRNzRBMkRNS1ZENDM3RFBMVUFCQTdLVFVEWTJZVVBaNEVFTDdQWTRWR082NzdENk9QNU03QUJKNTNCUEpRRU1PWlpRQSJ9fQ.SV-Vr2PECPH4Yy6moNDZClI6QEjtr7GGKo5xrC5jOyO0Dmb6KyAfFuRmdqcwet3M656-yMtgZoetaOzXHuYmsqRnVizLgb1BT9TKe6ywwV3vfzektOLFJg4qaRelaqcxcBUSE_iOhoNeh9k4eWmYGbBYYzKAvhPBDXnIqstI9ZlUNGGuaCUOy0j11q_ia2kmjTqngJT3xIu4KzKg2PzMa4SXenay7APOptvG3MProFJsDz6lDO9z441mO7strPjDqQIN9QnVaSr9yLAZRKXZZUPwdiNJO1ST4HiTMZCZ6f2p1sNKpKvwmoBSqS4ToQhigbXyFCNEiiVm4wkiayPxjw"
-      },
-      "Viewport": {
-        "experiences": [
-          {
-            "arcMinuteWidth": 246,
-            "arcMinuteHeight": 144,
-            "canRotate": false,
-            "canResize": false
-          }
-        ],
-        "shape": "RECTANGLE",
-        "pixelWidth": 1024,
-        "pixelHeight": 600,
-        "dpi": 160,
-        "currentPixelWidth": 1024,
-        "currentPixelHeight": 600,
-        "touch": [
-          "SINGLE"
-        ]
-      }
-    },
-    "request": {
-      "type": "IntentRequest",
-      "requestId": "amzn1.echo-api.request.1b9a5b55-384d-49c4-8bea-c839fd3029bf",
-      "timestamp": "2019-04-08T13:08:52Z",
-      "locale": "fr-FR",
-      "intent": {
-        "name": "RechercheSalle",
-        "confirmationStatus": "NONE",
-        "slots": {
-          "nomDuCours": {
-            "name": "nomDuCours",
-            "value": "introduction à la vie politique",
-            "resolutions": {
-              "resolutionsPerAuthority": [
-                {
-                  "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d.nomDuCours",
-                  "status": {
-                    "code": "ER_SUCCESS_MATCH"
-                  },
-                  "values": [
-                    {
-                      "value": {
-                        "name": "Introduction à la vie politique",
-                        "id": "PO03"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "confirmationStatus": "NONE",
-            "source": "USER"
-          },
-          "jour": {
-            "name": "jour",
-            "confirmationStatus": "NONE",
-            "source": "USER"
-          },
-          "typeDeCours": {
-            "name": "typeDeCours",
-            "value": "cours",
-            "resolutions": {
-              "resolutionsPerAuthority": [
-                {
-                  "authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d.typeDeCours",
-                  "status": {
-                    "code": "ER_SUCCESS_MATCH"
-                  },
-                  "values": [
-                    {
-                      "value": {
-                        "name": "cours magistral",
-                        "id": "C"
-                      }
-                    }
-                  ]
-                }
-              ]
-            },
-            "confirmationStatus": "NONE",
-            "source": "USER"
-          }
-        }
-      },
-      "dialogState": "COMPLETED"
-    }
-  }
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.4ae1af59-2ff4-43f7-8068-365870213de1",
+		"application": {
+			"applicationId": "amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AHZXH2HTPF2FFSJJH2NAO57N3YDEKMF2YKD3HLIZOEAJYC4IJLLSB7IHNMWBQZ5EC2SWUKO2ZK4ZPVIKILVJ6V73OZKSKZAYXAGRXKSFQNITSYLHPJZAOAWUEFJJWY6NOY6MZXU6437Q74A2DMKVD437DPLUABA7KTUDY2YUPZ4EEL7PY4VGO677D6OP5M7ABJ53BPJQEMOZZQA"
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AHZXH2HTPF2FFSJJH2NAO57N3YDEKMF2YKD3HLIZOEAJYC4IJLLSB7IHNMWBQZ5EC2SWUKO2ZK4ZPVIKILVJ6V73OZKSKZAYXAGRXKSFQNITSYLHPJZAOAWUEFJJWY6NOY6MZXU6437Q74A2DMKVD437DPLUABA7KTUDY2YUPZ4EEL7PY4VGO677D6OP5M7ABJ53BPJQEMOZZQA"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AHS57ZUZFRETPEDFRW3DWFDCXNB6YKJUE2U2PQ5SPNUXMK7T3ZEM2UHVZR2UAYUZUWFDZM3YRLYJJZNTMOBDE5VZTZF2A322SMOQ52HQZLJP5B3SJYAI5LHFFDHTAQRRJ5RLOZYPBLFE77WWMYBYAZ4FXSQDWRZL6M2PNEA45N7JOAAPAADEY",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLmQ2NGRiOTFmLTEzOGYtNGJkNy04MjJlLTc5ZjZhNGM0NDE0ZCIsImV4cCI6MTU2MTMwNjIyNywiaWF0IjoxNTYxMzA1OTI3LCJuYmYiOjE1NjEzMDU5MjcsInByaXZhdGVDbGFpbXMiOnsiY29udGV4dCI6IkFBQUFBQUFBQUFDZjRmcUJucUZYVm5EYklEc0dvVmJiS3dFQUFBQUFBQUE2NmZRVU9TZFB6Nmx2bFBxbXp1WUVRN3RvNFlTQlYwSFpTVUtDQ1U4dzUreGNLUWFnUGhhMGNUN1BMcnE2QkdRK0Z0TnJKUGFtNjBFN2NWVzlWSXhPak5NaWNEZVRwUnhNNmU0Y0wyTWhYTitZZE02b0VySUhYN3ZDOVZKcXdESnhldUFJN3FONmpIbDVLTWhUUXAwUzdGdHVmUUE4cjQ2SklySTJtYVNubjlTSHhLdmZxWlp0MU9nMXVaUEd6SXcwQXg3VHc3VHhNajJra3BUM2F0Ym5QNXQyak96ek1IOHFDZEdtNjlOZ1hEQzByc3lPRS9vV3kwZm1lUUpNbWpCMVowdkp6MzkyMVBNTE1LcmRJeUpjMUk4VVJBZU0rUGF4NFViTVF0SDF5UzN5RVdUSTFQNkhsbjBqWXRMVXRrZVlUL0VhcWtMOS9pTVFVaUhWUjA1UkhzdmtkMlROdTlYVWxPTUNCOHlXWU9mUHloT3c0ZzV1NlRZSEFLQ2FwNGMzekVTMzdQK0NjVHpYRVE9PSIsImNvbnNlbnRUb2tlbiI6bnVsbCwiZGV2aWNlSWQiOiJhbXpuMS5hc2suZGV2aWNlLkFIUzU3WlVaRlJFVFBFREZSVzNEV0ZEQ1hOQjZZS0pVRTJVMlBRNVNQTlVYTUs3VDNaRU0yVUhWWlIyVUFZVVpVV0ZEWk0zWVJMWUpKWk5UTU9CREU1VlpUWkYyQTMyMlNNT1E1MkhRWkxKUDVCM1NKWUFJNUxIRkZESFRBUVJSSjVSTE9aWVBCTEZFNzdXV01ZQllBWjRGWFNRRFdSWkw2TTJQTkVBNDVON0pPQUFQQUFERVkiLCJ1c2VySWQiOiJhbXpuMS5hc2suYWNjb3VudC5BSFpYSDJIVFBGMkZGU0pKSDJOQU81N04zWURFS01GMllLRDNITElaT0VBSllDNElKTExTQjdJSE5NV0JRWjVFQzJTV1VLTzJaSzRaUFZJS0lMVko2VjczT1pLU0taQVlYQUdSWEtTRlFOSVRTWUxIUEpaQU9BV1VFRkpKV1k2Tk9ZNk1aWFU2NDM3UTc0QTJETUtWRDQzN0RQTFVBQkE3S1RVRFkyWVVQWjRFRUw3UFk0VkdPNjc3RDZPUDVNN0FCSjUzQlBKUUVNT1paUUEifX0.JzFhBHgSt9LQ-BXnbhTukpI7ynigNB-638DyriRiG93r3xOZhLYAkTTXL-21pa3MzBjOkD__g_x05IrDvcs7j_-p05NT-KrxBIrcWQ_6rHokACLUg2IqS_bIEvqp7wywGOAjZ4a9fdGEOLg8VhjlWM37-KbsvQuPG_LWTsmjFaA7V02Pqpnvsa8VqZKLgxMbMIlMxz8GDb_Li0A5tCx3wsUPYzlNzHvDjJ4W5kjfHQV7f02cx0Cljyr3iags_UgEhZ2QdNIpB4aqgGnsOoXo5iJlor-Z-skAtJotda0maQlPqiqlwKSfDMN-kWm7a-18rpOdIErZYzCz-dQd1htdnQ"
+		},
+		"Viewport": {
+			"experiences": [
+				{
+					"arcMinuteWidth": 246,
+					"arcMinuteHeight": 144,
+					"canRotate": false,
+					"canResize": false
+				}
+			],
+			"shape": "RECTANGLE",
+			"pixelWidth": 1024,
+			"pixelHeight": 600,
+			"dpi": 160,
+			"currentPixelWidth": 1024,
+			"currentPixelHeight": 600,
+			"touch": [
+				"SINGLE"
+			],
+			"video": {
+				"codecs": [
+					"H_264_42",
+					"H_264_41"
+				]
+			}
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.cde6b96a-56db-43ca-8641-c5dbf9aa535b",
+		"timestamp": "2019-06-23T16:05:27Z",
+		"locale": "fr-FR",
+		"intent": {
+			"name": "CUSTOM_SearchRoom",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"nomDuCours": {
+					"name": "nomDuCours",
+					"value": "SY5",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d.nomDuCours",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "Outils d'aide à la décision et théorie des jeux",
+											"id": "SY05"
+										}
+									},
+									{
+										"value": {
+											"name": "Psychologie du travail et des organisations",
+											"id": "SC05"
+										}
+									},
+									{
+										"value": {
+											"name": "Stage technique",
+											"id": "ST05"
+										}
+									},
+									{
+										"value": {
+											"name": "Dimensionnement économique de composants",
+											"id": "CS05"
+										}
+									},
+									{
+										"value": {
+											"name": "Introduction au langage C",
+											"id": "NF05"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"jour": {
+					"name": "jour",
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				},
+				"typeDeCours": {
+					"name": "typeDeCours",
+					"value": "cours",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.d64db91f-138f-4bd7-822e-79f6a4c4414d.typeDeCours",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "cours magistral",
+											"id": "C"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		},
+		"dialogState": "COMPLETED"
+	}
+}
